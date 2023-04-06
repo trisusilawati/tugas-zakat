@@ -1,6 +1,6 @@
 # tugas-zakat
 # Nama kelompok 
-# Trisusilowati
+# Tri Susilowati
 # Sherly Octavia Anggraeni
 # Marfika Santi
 
